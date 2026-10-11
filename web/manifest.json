@@ -1,0 +1,35 @@
+{
+  "name": "Taskpilot",
+  "short_name": "Taskpilot",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#111D35",
+  "theme_color": "#5262F3",
+  "description": "Your day, in focus. A clear plan for your tasks.",
+  "orientation": "portrait-primary",
+  "prefer_related_applications": false,
+  "icons": [
+    {
+      "src": "icons/Icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icons/Icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "icons/Icon-maskable-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "icons/Icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

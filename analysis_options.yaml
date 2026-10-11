@@ -5,4 +5,7 @@ analyzer:
     - ios/**
     - web/**
     - tools/node_modules/**
+    - windows/**
+    - macos/**
+    - linux/**
 include: package:flutter_lints/flutter.yaml

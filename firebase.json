@@ -1,15 +1,1 @@
-{
-  "firestore": {
-    "rules": "firestore.rules",
-    "indexes": "firestore.indexes.json"
-  },
-  "emulators": {
-    "firestore": {
-      "port": 8080
-    },
-    "ui": {
-      "enabled": false
-    },
-    "singleProjectMode": true
-  }
-}
+{"firestore":{"rules":"firestore.rules","indexes":"firestore.indexes.json"},"emulators":{"firestore":{"port":8080},"ui":{"enabled":false},"singleProjectMode":true},"flutter":{"platforms":{"android":{"default":{"projectId":"taskpilot-e1131","appId":"1:655667830369:android:45c458dc74fb10b3b6d420","fileOutput":"android/app/google-services.json"}},"dart":{"lib/firebase_options.dart":{"projectId":"taskpilot-e1131","configurations":{"android":"1:655667830369:android:45c458dc74fb10b3b6d420"}}}}}}
